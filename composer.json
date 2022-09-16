@@ -1,0 +1,15 @@
+{
+    "name": "hightemp/wapp_simple_stats",
+    "autoload": {
+        "psr-4": {
+            "Hightemp\\WappSimpleStats\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Антон Панов",
+            "email": "a.panov@avtoexpress.org"
+        }
+    ],
+    "require": {}
+}
